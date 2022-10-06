@@ -32,14 +32,15 @@ RUN nuget restore -Verbosity quiet
 COPY src/ ./src/
 
 # Build the Sitecore main platform artifacts
-RUN msbuild .\src\platform\Platform.csproj /p:Configuration=$env:BUILD_CONFIGURATION /m /p:DeployOnBuild=true /p:PublishProfile=Local
+# RUN msbuild .\src\Environment\platform\Sc102Project.Environment.Platform.csproj /p:Configuration=$env:BUILD_CONFIGURATION /m /p:DeployOnBuild=true /p:PublishProfile=Local
+RUN msbuild .\src\Environment\platform\Sc102Project.Environment.Platform.csproj /p:Configuration=$env:BUILD_CONFIGURATION /p:DeployOnBuild=True /p:DeployDefaultTarget=WebPublish /p:WebPublishMethod=FileSystem /p:PublishUrl=/build/sitecore
 
 # Build the rendering host
-WORKDIR /build/src/rendering
+WORKDIR /build/src/Project/Sc102Project/rendering/
 RUN dotnet publish -c $env:BUILD_CONFIGURATION -o /build/rendering --no-restore
 
 # Save the artifacts for copying into other images (see 'cm' and 'rendering' Dockerfiles).
 FROM mcr.microsoft.com/windows/nanoserver:1809
 WORKDIR /artifacts
-COPY --from=builder /build/docker/deploy/platform  ./sitecore/
+COPY --from=builder /build/sitecore  ./sitecore/
 COPY --from=builder /build/rendering ./rendering/

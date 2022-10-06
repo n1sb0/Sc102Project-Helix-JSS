@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc102Project.Project.Sc102P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sc102Project.Project.Sc102Project.Rendering", "src\Project\Sc102Project\rendering\Sc102Project.Project.Sc102Project.Rendering.csproj", "{0E9AE964-33C4-4F7F-A8A3-59344A97238E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "platform", "platform", "{B88FD1BC-6E3C-4FD8-BD95-63175C39EE29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc102Project.Environment.Platform", "src\Environment\platform\Sc102Project.Environment.Platform.csproj", "{21C2ADA9-BD9E-45CA-A52F-6E8720A69138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C2ADA9-BD9E-45CA-A52F-6E8720A69138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C2ADA9-BD9E-45CA-A52F-6E8720A69138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C2ADA9-BD9E-45CA-A52F-6E8720A69138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C2ADA9-BD9E-45CA-A52F-6E8720A69138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,8 @@ Global
 		{55F43544-7876-489D-A18C-A5CE09274410} = {C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A}
 		{9C12126A-8808-47CE-AF1C-F06884BCB881} = {92C14F08-E3C3-42E2-B6D6-53635EF4BB91}
 		{0E9AE964-33C4-4F7F-A8A3-59344A97238E} = {92C14F08-E3C3-42E2-B6D6-53635EF4BB91}
+		{B88FD1BC-6E3C-4FD8-BD95-63175C39EE29} = {2950A959-EC7C-4FCA-B06A-45FDF1A89DEA}
+		{21C2ADA9-BD9E-45CA-A52F-6E8720A69138} = {B88FD1BC-6E3C-4FD8-BD95-63175C39EE29}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7C4987-3A11-41A9-8915-5457EF7B5A6F}
