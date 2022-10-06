@@ -1,0 +1,62 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{196B5D43-B228-4632-9BC3-EAAF79B4EDA5}"
+	ProjectSection(SolutionItems) = preProject
+		nuget.config = nuget.config
+		README.md = README.md
+		sitecore.json = sitecore.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{52D02F6A-9FED-41D4-926F-E805927F6DA8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Foundation", "Foundation", "{02EF3341-0BBA-4A3E-A69B-E8794E5C1BCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Feature", "Feature", "{8C793471-07CD-401C-9922-7448D4372673}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Environment", "Environment", "{2950A959-EC7C-4FCA-B06A-45FDF1A89DEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sc102Project", "Sc102Project", "{92C14F08-E3C3-42E2-B6D6-53635EF4BB91}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sc102Project.Feature.Navigation.Rendering", "src\Feature\Navigation\rendering\Sc102Project.Feature.Navigation.Rendering.csproj", "{55F43544-7876-489D-A18C-A5CE09274410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc102Project.Project.Sc102Project.Platform", "src\Project\Sc102Project\platform\Sc102Project.Project.Sc102Project.Platform.csproj", "{9C12126A-8808-47CE-AF1C-F06884BCB881}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sc102Project.Project.Sc102Project.Rendering", "src\Project\Sc102Project\rendering\Sc102Project.Project.Sc102Project.Rendering.csproj", "{0E9AE964-33C4-4F7F-A8A3-59344A97238E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55F43544-7876-489D-A18C-A5CE09274410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F43544-7876-489D-A18C-A5CE09274410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F43544-7876-489D-A18C-A5CE09274410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F43544-7876-489D-A18C-A5CE09274410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C12126A-8808-47CE-AF1C-F06884BCB881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C12126A-8808-47CE-AF1C-F06884BCB881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C12126A-8808-47CE-AF1C-F06884BCB881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C12126A-8808-47CE-AF1C-F06884BCB881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9AE964-33C4-4F7F-A8A3-59344A97238E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{92C14F08-E3C3-42E2-B6D6-53635EF4BB91} = {52D02F6A-9FED-41D4-926F-E805927F6DA8}
+		{C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A} = {8C793471-07CD-401C-9922-7448D4372673}
+		{55F43544-7876-489D-A18C-A5CE09274410} = {C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A}
+		{9C12126A-8808-47CE-AF1C-F06884BCB881} = {92C14F08-E3C3-42E2-B6D6-53635EF4BB91}
+		{0E9AE964-33C4-4F7F-A8A3-59344A97238E} = {92C14F08-E3C3-42E2-B6D6-53635EF4BB91}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7C4987-3A11-41A9-8915-5457EF7B5A6F}
+	EndGlobalSection
+EndGlobal

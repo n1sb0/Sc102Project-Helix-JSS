@@ -1,0 +1,31 @@
+{
+    "namespace": "Items",
+    "items" : {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/Sc102Project"
+            },
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/Sc102Project"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/Sc102Project"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/Sc102Project"
+            },
+            {
+                "name": "content",
+                "path": "/sitecore/content/Sc102Project"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/Sc102Project"
+            }
+        ]
+    }
+}

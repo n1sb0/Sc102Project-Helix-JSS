@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <DockerfileContext>..\..\..\..\..</DockerfileContext>
+    <AssemblyName>Sc102Project.Project.Sc102Project</AssemblyName>
+    <RootNamespace>Sc102Project.Project.Sc102Project</RootNamespace>
+  </PropertyGroup>
+
+    <ItemGroup>
+    <PackageReference Include="Sitecore.AspNet.ExperienceEditor" />
+    <PackageReference Include="Sitecore.AspNet.Tracking" />
+    <PackageReference Include="Sitecore.AspNet.Tracking.VisitorIdentification" />
+    <PackageReference Include="Sitecore.LayoutService.Client" />
+    <PackageReference Include="Sitecore.AspNet.RenderingEngine" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\css\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Feature\Navigation\rendering\Sc102Project.Feature.Navigation.Rendering.csproj" />
+  </ItemGroup>
+
+</Project>
