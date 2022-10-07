@@ -1,1 +1,17 @@
-<sc-placeholder name="main"></sc-placeholder>
+@model Route
+@{
+    Layout = "_Layout.cshtml";
+}
+<header>
+    <sc-placeholder name="header"></sc-placeholder>
+</header>
+
+<main>
+    <div id="content">
+        <p>Test</p>
+        <sc-placeholder name="main"></sc-placeholder>
+    </div>
+</main>
+
+<!--Footer Rendering-->
+<sc-placeholder name="footer"></sc-placeholder>

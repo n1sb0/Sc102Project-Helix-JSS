@@ -6,7 +6,7 @@ namespace Sc102Project.Controllers
 {
     public class SitecoreController : Controller
     {
-        public IActionResult Index([SitecoreRouteField] Field<string> pageTitle)
+        public IActionResult Index()
         {
             // ViewBag.Title = pageTitle.Value;
 
