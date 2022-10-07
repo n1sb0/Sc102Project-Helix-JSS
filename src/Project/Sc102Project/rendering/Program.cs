@@ -61,6 +61,7 @@ var services = builder.Services;
                         httpRequest.Path = scPath + sitecoreResponse?.Sitecore?.Route?.DatabaseName);
         })
         .WithTracking();
+        // .WithExperienceEditor().WithTracking();
 
     services.AddSitecoreVisitorIdentification(options =>
     {
@@ -78,8 +79,34 @@ if (!app.Environment.IsDevelopment())
     app.UseExceptionHandler("/Error");
 }
 app.UseStaticFiles();
-
 app.UseRouting();
+
+// Make sure to resolve IP address before Rendering engine functionality. It will allow xDb to record real client IP address.
+// Uncomment if you expect to resolve x-forwarded headers.
+//app.UseForwardedHeaders();
+app.UseSitecoreVisitorIdentification();
+
+
+app.UseSitecoreExperienceEditor();
+
+//Adds localization functionality
+//Calling UseSitecoreRequestLocalization() on the localization  allows culture to be resolved from both the sc_lang query string and the culture token from route data.
+app.UseRequestLocalization(options =>
+{
+    var supportedCultures = new List<CultureInfo> { new CultureInfo("en"), new CultureInfo("da"), new CultureInfo("da-DK") };
+    options.DefaultRequestCulture = new RequestCulture(culture: "da", uiCulture: "da");
+    options.SupportedCultures = supportedCultures;
+    options.SupportedUICultures = supportedCultures;
+    options.UseSitecoreRequestLocalization();
+}
+);
+app.UseSitecoreRenderingEngine();
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapSitecoreLocalizedRoute("Localized", "Index", "Sitecore");
+    endpoints.MapFallbackToController("Index", "Sitecore");
+});
 
 app.UseAuthorization();
 
