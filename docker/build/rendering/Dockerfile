@@ -12,11 +12,14 @@ FROM ${DEBUG_PARENT_IMAGE} as debug
 WORKDIR /solution/src
 ENV DOTNET_WATCH_SUPPRESS_LAUNCH_BROWSER=true
 EXPOSE 80
-ENTRYPOINT ["dotnet", "watch", "-v", "--project", ".\\rendering", "run", "--no-launch-profile"]
+ENTRYPOINT ["dotnet", "watch", "-v", "--project", ".\\Project\\Sc102Project\\rendering", "run", "--no-launch-profile"]
 
 FROM ${SOLUTION_IMAGE} as solution
 FROM mcr.microsoft.com/dotnet/sdk:6.0 as release
-WORKDIR /app
-COPY --from=solution /artifacts/rendering/ ./
+
+WORKDIR C:\app
+COPY --from=solution \artifacts\rendering\ .\
 EXPOSE 80
-ENTRYPOINT ["dotnet", "Sc102Project.dll"]
+EXPOSE 443
+
+ENTRYPOINT ["dotnet", "Sc102Project.Project.Sc102Project.dll"]
