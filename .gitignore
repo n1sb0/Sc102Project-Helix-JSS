@@ -274,3 +274,5 @@ __pycache__/
 .sitecore/package-cache/
 *.scindex
 !/**/.gitkeep
+
+.sitecore/user.json
