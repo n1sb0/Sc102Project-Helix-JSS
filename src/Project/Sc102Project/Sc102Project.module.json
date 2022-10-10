@@ -21,11 +21,11 @@
             {
                 "name": "content",
                 "path": "/sitecore/content/Sc102Project"
-            },
-            {
-                "name": "media",
-                "path": "/sitecore/media library/Sc102Project"
             }
+            // {
+            //     "name": "media",
+            //     "path": "/sitecore/media library/Sc102Project"
+            // }
         ]
     }
 }

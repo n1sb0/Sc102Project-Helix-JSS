@@ -1,0 +1,38 @@
+﻿---
+ID: "9206d7f0-1188-4600-b94e-935c1920cc50"
+Parent: "300a2289-c52d-46ad-be9b-b242dfa186ca"
+Template: "35c61e90-47dd-43dd-83a8-d1c4d5119720"
+Path: /sitecore/layout/Layouts/Project/Sc102Project/Sc102Project Layout
+SharedFields:
+- ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
+  Hint: Placeholders
+  Value: |
+    {1779DD2D-3987-4611-8F59-A3B3D226396B}
+    {29300FC7-8D5A-4DE6-812E-D2DC971D100D}
+    {ADACD3F3-A84C-4CE6-A8DA-B067650B461B}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221006T131801Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d1b98b5-75ad-47bc-b49e-4be905707ed9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221007T104030Z

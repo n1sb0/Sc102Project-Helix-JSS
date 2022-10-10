@@ -8,8 +8,6 @@ namespace Sc102Project.Controllers
     {
         public IActionResult Index()
         {
-            // ViewBag.Title = pageTitle.Value;
-
             return View();
         }
 
