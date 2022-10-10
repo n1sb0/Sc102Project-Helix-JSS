@@ -1,8 +1,8 @@
 ﻿---
-ID: "a13e00a4-dfcc-4bca-a3a2-5397ff8b02e6"
-Parent: "f77ac579-dc11-4a3d-be57-d6f7c2ba023d"
-Template: "b94ffeeb-58f6-4045-8151-e275d6c085e6"
-Path: /sitecore/content/Sc102Project/Home
+ID: "c5af5af5-0fac-437e-9777-98b49380d385"
+Parent: "5fea99db-eb6d-4559-babe-a833129af4ce"
+Template: "5fea99db-eb6d-4559-babe-a833129af4ce"
+Path: /sitecore/templates/Feature/BasicContent/_Base Page/__Standard Values
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221007T104105Z
+      Value: 20221010T133624Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,14 +21,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cfb12e68-66de-4e73-8012-29b5ddb4b38e"
+      Value: "07641493-9882-49cc-b3f0-f10584d74878"
     - ID: "8dbe4d4f-7ed4-47b2-8996-393b7d894634"
       Hint: Title
-      Value: Sitecore 10.2 Project
+      Value: $name
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221007T104300Z
+      Value: 20221010T133630Z

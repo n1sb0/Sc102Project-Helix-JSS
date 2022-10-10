@@ -1,12 +1,15 @@
 ﻿---
-ID: "ee415ae7-1b35-458f-b0b6-8362c84d7067"
-Parent: "e91b2cb7-8138-45aa-98e4-1a3e9ec9d581"
-Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
-Path: /sitecore/templates/Project/Sc102Project/Folder Types/Components Folder
+ID: "0d746132-2a6e-47ec-80fe-b8c642e51a23"
+Parent: "516e39c9-e8ef-417e-8e5d-3668ff2e735a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/_Base Page/Content/Img
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: Office/32x32/folder_network.png
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Image
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
 Languages:
 - Language: en
   Versions:
@@ -14,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221007T093639Z
+      Value: 20221006T132303Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d7518a3e-1d46-4545-babc-3f414ed46237"
+      Value: "c17f1f71-51e1-4d39-b66a-f80020740ff2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221007T093802Z
+      Value: 20221006T132303Z

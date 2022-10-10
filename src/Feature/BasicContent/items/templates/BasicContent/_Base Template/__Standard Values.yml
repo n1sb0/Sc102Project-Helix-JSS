@@ -1,0 +1,45 @@
+﻿---
+ID: "b0b90623-2964-41b2-a4de-8ad1249c0364"
+Parent: "53451dc9-22c0-42fd-bf07-b884d04d7b8e"
+Template: "53451dc9-22c0-42fd-bf07-b884d04d7b8e"
+Path: /sitecore/templates/Feature/BasicContent/_Base Template/__Standard Values
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{9206D7F0-1188-4600-B94E-935C1920CC50}">
+        <p
+          uid="{630EC6E7-1A27-45C6-81D2-614018E18572}"
+          key="main"
+          md="{1779DD2D-3987-4611-8F59-A3B3D226396B}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221006T131637Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "03c29dc5-ba9e-47d9-95d3-ec0150913a9e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221006T132137Z
