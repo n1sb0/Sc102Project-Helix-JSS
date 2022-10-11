@@ -5,6 +5,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{196B5D43-B228-4632-9BC3-EAAF79B4EDA5}"
 	ProjectSection(SolutionItems) = preProject
 		nuget.config = nuget.config
+		Packages.props = Packages.props
 		README.md = README.md
 		sitecore.json = sitecore.json
 	EndProjectSection
@@ -23,6 +24,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sc102Project", "Sc102Projec
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Navigation", "Navigation", "{C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A}"
+	ProjectSection(SolutionItems) = preProject
+		src\Feature\Navigation\Navigation.module.json = src\Feature\Navigation\Navigation.module.json
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc102Project.Project.Sc102Project.Platform", "src\Project\Sc102Project\platform\Sc102Project.Project.Sc102Project.Platform.csproj", "{9C12126A-8808-47CE-AF1C-F06884BCB881}"
 EndProject
@@ -38,6 +42,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BasicContent", "BasicConten
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sc102Project.Feature.BasicContent.Rendering", "src\Feature\BasicContent\rendering\Sc102Project.Feature.BasicContent.Rendering.csproj", "{3DEE8399-E050-43B8-9951-18731DE7F43C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sc102Project.Feature.Navigation.Rendering", "src\Feature\Navigation\rendering\Sc102Project.Feature.Navigation.Rendering.csproj", "{D3A93D5B-CC58-41BA-8A4D-D3ED508B449D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sc102Project.Feature.Navigation.Platform", "src\Feature\Navigation\platform\Sc102Project.Feature.Navigation.Platform.csproj", "{CDCE1B9A-E8EC-4DC0-BB01-29A1DA57F1AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +69,14 @@ Global
 		{3DEE8399-E050-43B8-9951-18731DE7F43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DEE8399-E050-43B8-9951-18731DE7F43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DEE8399-E050-43B8-9951-18731DE7F43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A93D5B-CC58-41BA-8A4D-D3ED508B449D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A93D5B-CC58-41BA-8A4D-D3ED508B449D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A93D5B-CC58-41BA-8A4D-D3ED508B449D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A93D5B-CC58-41BA-8A4D-D3ED508B449D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCE1B9A-E8EC-4DC0-BB01-29A1DA57F1AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCE1B9A-E8EC-4DC0-BB01-29A1DA57F1AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCE1B9A-E8EC-4DC0-BB01-29A1DA57F1AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCE1B9A-E8EC-4DC0-BB01-29A1DA57F1AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +90,8 @@ Global
 		{21C2ADA9-BD9E-45CA-A52F-6E8720A69138} = {B88FD1BC-6E3C-4FD8-BD95-63175C39EE29}
 		{E441967F-17C9-4D20-AB89-A8E4872EB8DE} = {8C793471-07CD-401C-9922-7448D4372673}
 		{3DEE8399-E050-43B8-9951-18731DE7F43C} = {E441967F-17C9-4D20-AB89-A8E4872EB8DE}
+		{D3A93D5B-CC58-41BA-8A4D-D3ED508B449D} = {C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A}
+		{CDCE1B9A-E8EC-4DC0-BB01-29A1DA57F1AF} = {C4CEB87C-7AB8-4E80-B1F7-33B98EBEAB0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7A7C4987-3A11-41A9-8915-5457EF7B5A6F}

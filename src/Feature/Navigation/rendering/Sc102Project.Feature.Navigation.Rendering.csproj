@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+    <AssemblyName>Sc102Project.Feature.Navigation</AssemblyName>
+    <RootNamespace>Sc102Project.Feature.Navigation</RootNamespace>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+	<PackageReference Include="Sitecore.LayoutService.Client" />
+	<PackageReference Include="Sitecore.AspNet.RenderingEngine" />
+   </ItemGroup>
+
+
+</Project>
