@@ -73,7 +73,7 @@ dotnet sitecore index schema-populate
 
 Write-Host "Pushing latest items to Sitecore..." -ForegroundColor Green
 
-# dotnet sitecore ser push --publish
+dotnet sitecore ser push --publish
 if ($LASTEXITCODE -ne 0) {
     Write-Error "Serialization push failed, see errors above."
 }
