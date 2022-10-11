@@ -1,15 +1,18 @@
 ﻿---
-ID: "29300fc7-8d5a-4de6-812e-d2dc971d100d"
-Parent: "1cd07453-159b-499c-a93f-e997b32da86c"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: /sitecore/layout/Placeholder Settings/Project/Sc102Project/footer
+ID: "fef946be-7a66-4e5c-bb37-cd1d62e6c74c"
+Parent: "620dbb47-fbbc-4e03-92d8-46b3f61aaa4b"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/Navigation/Header
 SharedFields:
-- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
-  Hint: Placeholder Key
-  Value: footer
-- ID: "e391b526-d0c5-439d-803e-17512eae6222"
-  Hint: Allowed Controls
-  Value: "{0C5ABAE5-7900-4D13-B821-8A17F2E9B6B6}"
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Header
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: 
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{69C8E210-FDEE-437D-9521-7AE8613A0A06}"
 Languages:
 - Language: en
   Versions:
@@ -17,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221006T131912Z
+      Value: 20221011T102011Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4656480c-ade2-405c-bee1-57a58cbf8832"
+      Value: "fd4484d0-b517-47f2-8289-32ca4782e2f3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221011T103707Z
+      Value: 20221011T104220Z

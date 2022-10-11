@@ -1,0 +1,51 @@
+﻿---
+ID: "a738288f-0cfa-4678-9f6e-87e1ffa86882"
+Parent: "f77ac579-dc11-4a3d-be57-d6f7c2ba023d"
+Template: "b94ffeeb-58f6-4045-8151-e275d6c085e6"
+Path: /sitecore/content/Sc102Project/Home
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{C7DD01DA-DB93-4A29-9AB0-F0F49848981B}"
+              p:after="p[@uid='{C10747AF-8A97-4BCC-8017-2CA9EA99312C}']"
+              s:ds="{8DD04257-6062-47F9-8FDF-0EE2F46F156C}"
+              s:id="{09FE7B4A-F57F-4897-BCFD-058BE9E64A96}"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221011T102753Z
+    - ID: "53a3955a-ab96-4b9b-888c-c8e4d3c45ccf"
+      Hint: FooterCopyRight
+      Value: Copy Right
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Home
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be9c921e-f29c-43b6-9204-f618b30afa1a"
+    - ID: "a055fd0a-f488-403d-9e97-de217e666f53"
+      Hint: HeaderLogo
+      Value: |
+        <image mediaid="{31C234B2-23DC-482B-B011-57F4619ED9A6}" alt="img" height="56" width="175" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221011T131615Z

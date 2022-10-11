@@ -1,20 +1,18 @@
 ﻿---
-ID: "4d067f47-ccce-45f8-8c35-6fdef058f8d6"
-Parent: "a5c77cd0-a138-4b3a-82e4-4a922af2cda3"
+ID: "990a8672-9085-466d-b1f7-2802fe42e950"
+Parent: "e7d6f7a1-4989-47a1-8499-85b0e5089318"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Sc102Project/Page Types/Page
+Path: /sitecore/templates/Feature/BasicContent/Shared Folder
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/document_orientation_portrait.png
+  Value: Office/32x32/folders.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
-  Value: |
-    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
-    {8C277C68-EC50-41AC-A7C9-62D3C91F36BE}
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{FC1C08E2-E3B6-4CD5-8803-1FEF9B171FB0}"
+  Value: "{57B77AE4-DA9C-4FDE-B867-94FDA592FC22}"
 Languages:
 - Language: en
   Versions:
@@ -22,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221006T131426Z
+      Value: 20221010T144730Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -33,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c6230d58-03dc-4d6f-908e-9aa037fe83db"
+      Value: "dae0757a-9901-4923-bf94-7eb10520bf75"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221011T131646Z
+      Value: 20221010T144910Z

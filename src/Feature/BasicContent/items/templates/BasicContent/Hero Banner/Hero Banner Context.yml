@@ -1,15 +1,8 @@
 ﻿---
-ID: "53451dc9-22c0-42fd-bf07-b884d04d7b8e"
-Parent: "e7d6f7a1-4989-47a1-8499-85b0e5089318"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/BasicContent/_Base Template
-SharedFields:
-- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
-  Hint: __Base template
-  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
-- ID: "f7d48a55-2158-4f02-9356-756654404f73"
-  Hint: __Standard values
-  Value: "{B0B90623-2964-41B2-A4DE-8AD1249C0364}"
+ID: "38da1c93-03d1-40c5-9370-5defbc50d8f6"
+Parent: "c9b38995-5696-4eb0-bc38-7c592b62d6be"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Hero Banner/Hero Banner Context
 Languages:
 - Language: en
   Versions:
@@ -17,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221006T131624Z
+      Value: 20221010T143344Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9744a656-7fdf-4471-8c69-4ff99b226b37"
+      Value: "e145efe3-6ebb-498c-a9b4-b3b31f58cf65"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221006T131637Z
+      Value: 20221010T143721Z
