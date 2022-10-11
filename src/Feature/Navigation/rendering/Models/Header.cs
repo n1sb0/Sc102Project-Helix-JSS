@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BasicCompany.Feature.Navigation.Models
+namespace Sc102Project.Feature.Navigation.Models
 {
     public class Header
     {

@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\..\Feature\BasicContent\rendering\Sc102Project.Feature.BasicContent.Rendering.csproj" />
+    <ProjectReference Include="..\..\..\Feature\Navigation\rendering\Sc102Project.Feature.Navigation.Rendering.csproj" />
   </ItemGroup>
 
 </Project>

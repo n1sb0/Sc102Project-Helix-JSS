@@ -14,6 +14,7 @@ using Sitecore.AspNet.ExperienceEditor;
 using Sc102Project.Configuration;
 using Sitecore.AspNet.Tracking;
 using Sc102Project.Feature.BasicContent.Extensions;
+using Sc102Project.Feature.Navigation.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -42,6 +43,7 @@ var services = builder.Services;
     {
         options
             .AddFeatureBasicContent()
+            .AddFeatureNavigation()
             .AddDefaultPartialView("_ComponentNotFound");
     })
         // In Experience Editor, relative links to resources of Rendering Host may render incorrectly,

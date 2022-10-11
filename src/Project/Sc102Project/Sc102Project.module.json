@@ -19,6 +19,10 @@
                 "path": "/sitecore/layout/Placeholder Settings/Project/Sc102Project"
             },
             {
+                "name": "branches",
+                "path": "/sitecore/templates/Branches/Project/Sc102Project"
+            },
+            {
                 "name": "content",
                 "path": "/sitecore/content/Sc102Project"
             }

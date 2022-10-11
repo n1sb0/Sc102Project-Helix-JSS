@@ -1,13 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
+using System.Web;
+using Sitecore.Data.Items;
 
 namespace Sc102Project.Feature.Navigation.Models
 {
     public class NavigationItem
     {
+        public Item Item { get; set; }
         public string Url { get; set; }
         public bool IsActive { get; set; }
-        public string Title { get; set; }
     }
 }
