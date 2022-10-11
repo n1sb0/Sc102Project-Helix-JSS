@@ -13,6 +13,7 @@ using System.Globalization;
 using Sitecore.AspNet.ExperienceEditor;
 using Sc102Project.Configuration;
 using Sitecore.AspNet.Tracking;
+using Sc102Project.Feature.BasicContent.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -40,7 +41,7 @@ var services = builder.Services;
     services.AddSitecoreRenderingEngine(options =>
     {
         options
-            //.AddModelBoundView<ContentBlock>("ContentBlock")
+            .AddFeatureBasicContent()
             .AddDefaultPartialView("_ComponentNotFound");
     })
         // In Experience Editor, relative links to resources of Rendering Host may render incorrectly,
@@ -61,7 +62,6 @@ var services = builder.Services;
                         httpRequest.Path = scPath + sitecoreResponse?.Sitecore?.Route?.DatabaseName);
         })
         .WithTracking();
-        // .WithExperienceEditor().WithTracking();
 
     services.AddSitecoreVisitorIdentification(options =>
     {
