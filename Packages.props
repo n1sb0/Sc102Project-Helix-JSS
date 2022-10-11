@@ -13,6 +13,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Update="Sitecore.Kernel" Version="$(PlatformVersion)" />
+    <PackageReference Update="Sitecore.Mvc" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.ContentSearch" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.ContentSearch.Linq" Version="$(PlatformVersion)" />
     <PackageReference Update="Sitecore.LayoutService" Version="8.0.0" />
