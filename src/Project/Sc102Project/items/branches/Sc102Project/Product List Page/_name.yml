@@ -1,0 +1,23 @@
+﻿---
+ID: "a8ec3b39-f680-40a3-a9a2-07c0a8361579"
+Parent: "048eae27-5837-4e4a-8759-0cee154c698e"
+Template: "39730ccb-6e85-43b2-8e06-d5fd834c55cb"
+Path: /sitecore/templates/Branches/Project/Sc102Project/Product List Page/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T144252Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "564ea964-aaa1-4286-9f8d-82bdcd3d573f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T144252Z

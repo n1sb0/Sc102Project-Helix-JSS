@@ -1,0 +1,26 @@
+﻿---
+ID: "6980f5c8-fca5-4fd7-9b05-4eb5ce84435c"
+Parent: "bdd8117c-4641-41b0-8ddc-5e75f97dd745"
+Template: "f07dbfc5-0cd4-4f7e-910b-85399acc45bd"
+Path: /sitecore/content/Sc102Project/Home/page components/Our Top Products
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "111ff2ab-266e-4d66-bfd7-00e58bf85625"
+      Hint: Text
+      Value: Our Top Products
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T155325Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "15c66443-57b7-4329-b86e-15ca672d06db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T155325Z

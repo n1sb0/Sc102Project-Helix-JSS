@@ -1,0 +1,49 @@
+﻿---
+ID: "84a00b72-7685-44d8-ac9e-61eca1ffc460"
+Parent: "732ae2ef-ef71-49a1-a6af-4abc96cb3d90"
+Template: "97b3c262-59e2-495f-b666-4ff9d00cbfac"
+Path: /sitecore/content/Sc102Project/Home/Products/Tristique senectus et netus et
+BranchID: "a834df81-d4d1-49fa-a212-0e06e96e4587"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{46D79A97-AA60-436F-BFE6-22D7E2AE81D7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T150559Z
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Tristique senectus et netus et
+    - ID: "8820506f-e348-43c1-bd64-8492f3735add"
+      Hint: ShortDescription
+      Value: consectetur adipiscing elit. Cras nec molestie dolor, sit amet consequat erat. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3699b2f7-17ff-4e9d-b632-627fbe0f68f2"
+    - ID: "a1e59c8d-2915-4a32-8825-8febda5631f1"
+      Hint: Price
+      Value: 19
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d6004bdb-5606-42aa-aaf2-1555b484138a"
+      Hint: Title
+      Value: Tristique senectus et netus et
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T150829Z
+    - ID: "ebb27b8e-d286-4cc2-b726-6322b2fc3471"
+      Hint: Title Price
+      Value: Price
+    - ID: "f7f96618-8f96-4268-bc49-3edc656ee4e4"
+      Hint: Features
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">auctor nec quam. </span></p>
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">Nullam sodales, </span></p>
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">enim nec commodo</span></p>

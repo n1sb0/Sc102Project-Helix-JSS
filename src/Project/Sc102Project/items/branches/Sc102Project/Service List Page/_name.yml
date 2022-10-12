@@ -1,8 +1,8 @@
 ﻿---
-ID: "f3401aa9-3cd3-474f-b455-a78d6f722dac"
-Parent: "bdd8117c-4641-41b0-8ddc-5e75f97dd745"
-Template: "3a0b2850-db56-44e2-9050-593d908f1363"
-Path: /sitecore/content/Sc102Project/Home/page components/Hero Banners
+ID: "f901b550-e270-41fc-aa41-dfb293e1df4d"
+Parent: "5c80bfa2-57f5-4ff3-83f6-23c21d0ef3b5"
+Template: "36c3c3c3-e2b6-4c8e-a3b2-35e5c2a0a50b"
+Path: /sitecore/templates/Branches/Project/Sc102Project/Service List Page/$name
 Languages:
 - Language: en
   Versions:
@@ -10,14 +10,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221010T145008Z
+      Value: 20221012T144159Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "618268ae-04d2-432f-ad65-a96d1428ccb5"
+      Value: "a1970a81-54bf-4160-bc78-6e3b943b3543"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221010T145008Z
+      Value: 20221012T144159Z

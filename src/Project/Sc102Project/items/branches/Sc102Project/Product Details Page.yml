@@ -1,8 +1,12 @@
 ﻿---
-ID: "0f61aa2e-5d5d-435e-9e15-d5a904dc5c4b"
-Parent: "09d5ce69-4cf6-44ba-b47d-9080f4d16bd4"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/BasicContent/Card/Card Content
+ID: "a834df81-d4d1-49fa-a212-0e06e96e4587"
+Parent: "d102a5bc-915e-4367-a075-01e1996808b3"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Project/Sc102Project/Product Details Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/box_closed.png
 Languages:
 - Language: en
   Versions:
@@ -10,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221012T103004Z
+      Value: 20221012T144317Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7b360d31-75cb-4fdc-9944-f81e540f692e"
+      Value: "6fd2c412-75aa-496f-914a-c733e8a36f78"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221012T104744Z
+      Value: 20221012T144322Z

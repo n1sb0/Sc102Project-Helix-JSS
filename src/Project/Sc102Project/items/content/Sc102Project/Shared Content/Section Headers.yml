@@ -1,8 +1,8 @@
 ﻿---
-ID: "97c7a436-be65-4beb-b120-133a95797b7e"
-Parent: "f77ac579-dc11-4a3d-be57-d6f7c2ba023d"
-Template: "990a8672-9085-466d-b1f7-2802fe42e950"
-Path: /sitecore/content/Sc102Project/Shared
+ID: "1f4eaf90-444a-4a1e-a906-709d58064dde"
+Parent: "97c7a436-be65-4beb-b120-133a95797b7e"
+Template: "6973630d-0636-4fff-94bd-3083ea38ebd9"
+Path: /sitecore/content/Sc102Project/Shared Content/Section Headers
 Languages:
 - Language: en
   Versions:
@@ -10,14 +10,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221010T144948Z
+      Value: 20221012T144040Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "28f5999f-8edf-4037-856b-76bb8f786681"
+      Value: "a3f4d0b2-2a3a-45a7-abc7-ab28cd4098cb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221010T144955Z
+      Value: 20221012T144040Z

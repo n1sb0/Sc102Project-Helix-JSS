@@ -1,0 +1,29 @@
+﻿---
+ID: "91a85e0b-5fd1-4bcc-b4b7-ebb3045c3da2"
+Parent: "732ae2ef-ef71-49a1-a6af-4abc96cb3d90"
+Template: "97b3c262-59e2-495f-b666-4ff9d00cbfac"
+Path: /sitecore/content/Sc102Project/Home/Products/Aenean a malesuada arcu
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T151516Z
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Aenean a malesuada arcu
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3de5d025-4335-4152-aa1b-8928f584b20b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d6004bdb-5606-42aa-aaf2-1555b484138a"
+      Hint: Title
+      Value: Aenean a malesuada arcu
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T151516Z

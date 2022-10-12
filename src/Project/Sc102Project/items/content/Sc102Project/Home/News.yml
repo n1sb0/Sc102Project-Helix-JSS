@@ -1,0 +1,30 @@
+﻿---
+ID: "83b830de-1399-49cb-ac0b-6f0372b2b7d7"
+Parent: "a738288f-0cfa-4678-9f6e-87e1ffa86882"
+Template: "4d067f47-ccce-45f8-8c35-6fdef058f8d6"
+Path: /sitecore/content/Sc102Project/Home/News
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T151748Z
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f832715-c532-445a-bd94-6397536eb67c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T151909Z

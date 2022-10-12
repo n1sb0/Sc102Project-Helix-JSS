@@ -12,6 +12,10 @@ SharedFields:
   Value: |
     {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {4D067F47-CCCE-45F8-8C35-6FDEF058F8D6}
+    {08EC6B27-2CCC-4103-B4F0-0D019965A2ED}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{A80248B1-F5B0-454E-A69F-EDD10FB01259}"
 Languages:
 - Language: en
   Versions:
@@ -30,11 +34,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d5299d55-c106-4b03-a6b9-02375106b5ca"
+      Value: "9adf1554-e6ed-4ce6-9a0b-3ac9eaed4bb2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221012T102430Z
+      Value: 20221012T150845Z

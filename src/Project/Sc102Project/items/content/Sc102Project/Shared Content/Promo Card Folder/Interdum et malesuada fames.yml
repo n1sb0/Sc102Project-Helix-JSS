@@ -1,0 +1,30 @@
+﻿---
+ID: "cf7cef17-3cf4-4339-b8ae-39ba7ed7fc1a"
+Parent: "bcdd1433-148b-4218-8446-ad8eb8bd9eb0"
+Template: "d70f3ecc-6c71-4d66-b5ba-a4dc859747ab"
+Path: /sitecore/content/Sc102Project/Shared Content/Promo Card Folder/Interdum et malesuada fames
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T153507Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2e0af98-d167-4f1d-8fd3-24946911c7aa"
+    - ID: "a0705a89-1146-4494-bb0d-d1e264f221f9"
+      Hint: Image
+      Value: |
+        <image mediaid="{1F4BC892-64D9-48FD-89AB-F3323B123A8A}" alt="img" height="" width="" hspace="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bca0e9a2-8cdf-4558-b4f2-1031aba79a24"
+      Hint: Title
+      Value: Interdum et malesuada fames
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T153529Z

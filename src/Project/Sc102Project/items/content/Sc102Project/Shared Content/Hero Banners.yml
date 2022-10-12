@@ -1,0 +1,23 @@
+﻿---
+ID: "61f75034-f9ee-4016-bbe7-8341414dc7a4"
+Parent: "97c7a436-be65-4beb-b120-133a95797b7e"
+Template: "3a0b2850-db56-44e2-9050-593d908f1363"
+Path: /sitecore/content/Sc102Project/Shared Content/Hero Banners
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T144010Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fd6fd49-c357-4b2d-a9cd-f1b21e0363f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T144034Z

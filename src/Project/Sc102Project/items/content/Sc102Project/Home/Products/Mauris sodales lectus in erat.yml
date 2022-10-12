@@ -1,0 +1,29 @@
+﻿---
+ID: "b4f3378b-e234-4f3f-9db7-dfaab0bbc66f"
+Parent: "732ae2ef-ef71-49a1-a6af-4abc96cb3d90"
+Template: "97b3c262-59e2-495f-b666-4ff9d00cbfac"
+Path: /sitecore/content/Sc102Project/Home/Products/Mauris sodales lectus in erat
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T151346Z
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Mauris sodales lectus in erat
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9f7d536-5e2a-45ae-84d8-16b3fcf158db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d6004bdb-5606-42aa-aaf2-1555b484138a"
+      Hint: Title
+      Value: Mauris sodales lectus in erat
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T151346Z

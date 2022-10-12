@@ -1,0 +1,23 @@
+﻿---
+ID: "bcdd1433-148b-4218-8446-ad8eb8bd9eb0"
+Parent: "97c7a436-be65-4beb-b120-133a95797b7e"
+Template: "9d05854f-3427-447f-a856-7d5578fc19a0"
+Path: /sitecore/content/Sc102Project/Shared Content/Promo Card Folder
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T152859Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e544ac39-a66c-4a6b-af04-1e6d10378060"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T152859Z

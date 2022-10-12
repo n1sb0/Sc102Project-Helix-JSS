@@ -1,15 +1,18 @@
 ﻿---
-ID: "09d5ce69-4cf6-44ba-b47d-9080f4d16bd4"
+ID: "9d05854f-3427-447f-a856-7d5578fc19a0"
 Parent: "e7d6f7a1-4989-47a1-8499-85b0e5089318"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/BasicContent/Card
+Path: /sitecore/templates/Feature/BasicContent/Promo Card Folder
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/document_heart.png
+  Value: office/32x32/folder_network.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{8AAAAC6E-047D-4E3D-9724-744E80ED78A3}"
 Languages:
 - Language: en
   Versions:
@@ -17,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221012T102916Z
+      Value: 20221012T152803Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "433ad1b0-41b2-4bc3-9be0-67effd2a6ac9"
+      Value: "e241d8bf-353b-40a2-8d10-e41a3cf024c1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221012T103758Z
+      Value: 20221012T152830Z
