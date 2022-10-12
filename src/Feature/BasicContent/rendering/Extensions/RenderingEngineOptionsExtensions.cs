@@ -9,6 +9,7 @@ namespace Sc102Project.Feature.BasicContent.Extensions
         public static RenderingEngineOptions AddFeatureBasicContent(this RenderingEngineOptions options)
         {
             options
+                .AddModelBoundView<SectionHeader>("SectionHeader")
                 .AddModelBoundView<HeroBanner>("HeroBanner");
             return options;
         }
