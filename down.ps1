@@ -13,6 +13,13 @@ foreach ($topology in $topologyArray) {
   }
 }
 
+Write-Host "Pull latest items from Sitecore..." -ForegroundColor Green
+
+dotnet sitecore ser pull
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "Serialization pull failed, see errors above."
+}
+
 Push-Location $workinDirectoryPath
 
 Write-Host "Down containers..." -ForegroundColor Green
