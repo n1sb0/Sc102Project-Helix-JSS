@@ -41,13 +41,16 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\Admin
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: $name
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5faaef31-0858-4373-8e65-3959d03dc226"
+      Value: "167f4e8a-8696-4a09-ae55-b980e30f2163"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221011T102252Z
+      Value: 20221012T093956Z

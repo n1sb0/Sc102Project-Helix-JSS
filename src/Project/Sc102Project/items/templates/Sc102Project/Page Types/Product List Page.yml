@@ -1,8 +1,17 @@
 ﻿---
-ID: "516e39c9-e8ef-417e-8e5d-3668ff2e735a"
-Parent: "5fea99db-eb6d-4559-babe-a833129af4ce"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/BasicContent/_Base Page/Content
+ID: "39730ccb-6e85-43b2-8e06-d5fd834c55cb"
+Parent: "a5c77cd0-a138-4b3a-82e4-4a922af2cda3"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Sc102Project/Page Types/Product List Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/sizes.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {4D067F47-CCCE-45F8-8C35-6FDEF058F8D6}
 Languages:
 - Language: en
   Versions:
@@ -10,7 +19,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221006T132303Z
+      Value: 20221012T101122Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +30,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0fbbc451-3956-4c3d-9c77-a970b3d75559"
+      Value: "fe593643-2b55-4747-a65d-b7d25bd37ec0"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221006T132303Z
+      Value: 20221012T102510Z

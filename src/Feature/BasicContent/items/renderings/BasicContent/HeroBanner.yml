@@ -15,7 +15,7 @@ SharedFields:
   Value: /sitecore/templates/Feature/BasicContent/Hero Banner
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: /sitecore/content/Sc102Project/Shared/Hero Banners
+  Value: /sitecore/content/Sc102Project/Home/page components/Hero Banners
 Languages:
 - Language: en
   Versions:
@@ -34,11 +34,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "291f19de-7f06-4c84-ac87-17dfc21d3030"
+      Value: "4a752a12-d941-47b6-8444-d62e4f7c166d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221010T145144Z
+      Value: 20221012T100445Z

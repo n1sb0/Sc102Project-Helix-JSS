@@ -1,8 +1,8 @@
 ﻿---
-ID: "2163b926-c1f1-44cc-a699-addcdc41cad7"
+ID: "bdd8117c-4641-41b0-8ddc-5e75f97dd745"
 Parent: "a738288f-0cfa-4678-9f6e-87e1ffa86882"
-Template: "4d067f47-ccce-45f8-8c35-6fdef058f8d6"
-Path: /sitecore/content/Sc102Project/Home/New Page
+Template: "b7f28ea6-be8a-47cc-9d28-9d5441691504"
+Path: /sitecore/content/Sc102Project/Home/page components
 Languages:
 - Language: en
   Versions:
@@ -10,17 +10,14 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221011T131040Z
-    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
-      Hint: NavigationTitle
-      Value: My Page
+      Value: 20221012T100404Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "990ebdd8-266c-4fb3-923a-2d13f52f40be"
+      Value: "83913a43-b81b-4a38-a926-2b927b3abb4b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221011T131654Z
+      Value: 20221012T100415Z

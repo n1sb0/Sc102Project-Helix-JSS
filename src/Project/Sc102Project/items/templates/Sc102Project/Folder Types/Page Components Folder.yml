@@ -6,12 +6,15 @@ Path: /sitecore/templates/Project/Sc102Project/Folder Types/Page Components Fold
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: office/32x32/folder_network.png
+  Value: office/32x32/folder_window.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: |
     {1930BBEB-7805-471A-A3BE-4858AC7CF696}
     {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{4EA7A310-6C9B-4E9C-AA27-56D535807789}"
 Languages:
 - Language: en
   Versions:
@@ -30,11 +33,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b3c6e806-45e2-45e3-ae38-d05c41789fba"
+      Value: "c51cd0db-24b6-4c70-90ee-6ca527b96038"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221011T131744Z
+      Value: 20221012T100538Z

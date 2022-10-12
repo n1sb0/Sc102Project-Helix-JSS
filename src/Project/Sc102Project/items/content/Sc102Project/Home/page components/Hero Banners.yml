@@ -1,8 +1,8 @@
 ﻿---
 ID: "f3401aa9-3cd3-474f-b455-a78d6f722dac"
-Parent: "97c7a436-be65-4beb-b120-133a95797b7e"
+Parent: "bdd8117c-4641-41b0-8ddc-5e75f97dd745"
 Template: "3a0b2850-db56-44e2-9050-593d908f1363"
-Path: /sitecore/content/Sc102Project/Shared/Hero Banners
+Path: /sitecore/content/Sc102Project/Home/page components/Hero Banners
 Languages:
 - Language: en
   Versions:

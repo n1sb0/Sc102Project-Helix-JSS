@@ -1,13 +1,15 @@
 ﻿---
-ID: "ee98ad47-7ee2-4eaf-8f5f-877ebc55c90f"
-Parent: "012460c6-8a9e-4791-a1e3-d96e860e4717"
-Template: "b7f28ea6-be8a-47cc-9d28-9d5441691504"
-Path: /sitecore/content/Sc102Project/New Home Page/Page Components
-BranchID: "bf59a061-d1e4-4f22-acd6-bdbc1a3477e1"
+ID: "111ff2ab-266e-4d66-bfd7-00e58bf85625"
+Parent: "946ae518-3fbf-43bb-b8b9-528ac3577699"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/BasicContent/Section Header/Section Header Content/Text
 SharedFields:
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{7AED5ACB-90FF-4393-9AFB-3F94DE98FA8F}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -15,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221011T131845Z
+      Value: 20221012T104615Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -26,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "200da98a-1277-4c6a-a1a0-c49759e31e65"
+      Value: "ff87e412-1e23-452c-8eef-73fcf232bd6b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221011T131845Z
+      Value: 20221012T105405Z

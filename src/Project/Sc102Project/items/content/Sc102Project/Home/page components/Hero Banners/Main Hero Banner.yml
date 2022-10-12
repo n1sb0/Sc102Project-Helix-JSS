@@ -2,7 +2,7 @@
 ID: "8dd04257-6062-47f9-8fdf-0ee2f46f156c"
 Parent: "f3401aa9-3cd3-474f-b455-a78d6f722dac"
 Template: "c9b38995-5696-4eb0-bc38-7c592b62d6be"
-Path: /sitecore/content/Sc102Project/Shared/Hero Banners/Home Hero Banner
+Path: /sitecore/content/Sc102Project/Home/page components/Hero Banners/Main Hero Banner
 Languages:
 - Language: en
   Versions:

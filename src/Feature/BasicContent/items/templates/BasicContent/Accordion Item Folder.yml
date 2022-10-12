@@ -1,21 +1,18 @@
 ﻿---
-ID: "b94ffeeb-58f6-4045-8151-e275d6c085e6"
-Parent: "a5c77cd0-a138-4b3a-82e4-4a922af2cda3"
+ID: "887c7077-bb1a-4d54-bbdd-9f34b68d37b9"
+Parent: "e7d6f7a1-4989-47a1-8499-85b0e5089318"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Sc102Project/Page Types/Home Page
+Path: /sitecore/templates/Feature/BasicContent/Accordion Item Folder
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/home.png
+  Value: office/32x32/folder_network.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
-  Value: |
-    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
-    {40F4F475-2596-46F0-A838-B7578CC5BD80}
-    {4D067F47-CCCE-45F8-8C35-6FDEF058F8D6}
+  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{D075298A-7452-4D27-8775-2F42C4DE9B5F}"
+  Value: "{BD756C03-0E25-47A3-BE56-BC46EBE01288}"
 Languages:
 - Language: en
   Versions:
@@ -23,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221006T131359Z
+      Value: 20221012T110017Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -34,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "206fc9bf-51ac-445a-93cd-ce0dbb304cae"
+      Value: "570af20d-ca58-42cc-9b2c-2f8ae0ef291d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221012T102455Z
+      Value: 20221012T110028Z
