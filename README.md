@@ -1,4 +1,4 @@
-# Sc102Project
+# Sitecore 10.2 ASP.NET Rendering Project
 
 ## About this Solution
 This solution is designed to help developers learn and get started quickly
