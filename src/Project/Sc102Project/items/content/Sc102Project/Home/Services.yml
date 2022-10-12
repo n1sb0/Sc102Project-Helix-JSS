@@ -1,0 +1,31 @@
+﻿---
+ID: "4dd405c9-66fc-4d18-a90b-6c41b8ff8f31"
+Parent: "a738288f-0cfa-4678-9f6e-87e1ffa86882"
+Template: "36c3c3c3-e2b6-4c8e-a3b2-35e5c2a0a50b"
+Path: /sitecore/content/Sc102Project/Home/Services
+BranchID: "5c80bfa2-57f5-4ff3-83f6-23c21d0ef3b5"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F901B550-E270-41FC-AA41-DFB293E1DF4D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T144449Z
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Services
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd7338cc-d3f4-4d7e-8c04-e8c18a9b59a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T144449Z

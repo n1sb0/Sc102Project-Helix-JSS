@@ -1,0 +1,23 @@
+﻿---
+ID: "1bbe721a-8502-4073-b3d5-9793042486ab"
+Parent: "f901b550-e270-41fc-aa41-dfb293e1df4d"
+Template: "b7f28ea6-be8a-47cc-9d28-9d5441691504"
+Path: /sitecore/templates/Branches/Project/Sc102Project/Service List Page/$name/page components
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T144228Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81e3af3b-f63c-4070-bf7b-b2a5a4404d22"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T144235Z

@@ -1,15 +1,8 @@
 ﻿---
-ID: "c145c8eb-3902-472e-8002-3fec97136593"
-Parent: "0f61aa2e-5d5d-435e-9e15-d5a904dc5c4b"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/BasicContent/Card/Card Content/Link
-SharedFields:
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: General Link
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 400
+ID: "b8c74b15-616f-43a8-a73e-16ae9e08d415"
+Parent: "d70f3ecc-6c71-4d66-b5ba-a4dc859747ab"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/BasicContent/Promo Card/Promo Card Content
 Languages:
 - Language: en
   Versions:
@@ -17,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221012T104744Z
+      Value: 20221012T150405Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -28,11 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "41f8fdc3-f920-4ce1-a4b0-75a2297e4b74"
+      Value: "0fd302ab-50dc-4b25-ae2b-c10ca4725524"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221012T104744Z
+      Value: 20221012T150424Z

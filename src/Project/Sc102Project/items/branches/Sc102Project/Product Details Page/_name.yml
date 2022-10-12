@@ -1,0 +1,23 @@
+﻿---
+ID: "46d79a97-aa60-436f-bfe6-22d7e2ae81d7"
+Parent: "a834df81-d4d1-49fa-a212-0e06e96e4587"
+Template: "97b3c262-59e2-495f-b666-4ff9d00cbfac"
+Path: /sitecore/templates/Branches/Project/Sc102Project/Product Details Page/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T144317Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8bfb05a-a133-4204-9a16-afd4fe99dca9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T144317Z

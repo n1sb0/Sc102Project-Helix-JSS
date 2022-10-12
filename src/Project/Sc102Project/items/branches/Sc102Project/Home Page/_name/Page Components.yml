@@ -2,7 +2,7 @@
 ID: "7aed5acb-90ff-4393-9afb-3f94de98fa8f"
 Parent: "7867f860-db10-4774-a16f-acd06bad4736"
 Template: "b7f28ea6-be8a-47cc-9d28-9d5441691504"
-Path: /sitecore/templates/Branches/Project/Sc102Project/Home Page/$name/Page Components
+Path: /sitecore/templates/Branches/Project/Sc102Project/Home Page/$name/page components
 Languages:
 - Language: en
   Versions:

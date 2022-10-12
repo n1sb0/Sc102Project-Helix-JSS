@@ -1,0 +1,31 @@
+﻿---
+ID: "732ae2ef-ef71-49a1-a6af-4abc96cb3d90"
+Parent: "a738288f-0cfa-4678-9f6e-87e1ffa86882"
+Template: "39730ccb-6e85-43b2-8e06-d5fd834c55cb"
+Path: /sitecore/content/Sc102Project/Home/Products
+BranchID: "048eae27-5837-4e4a-8759-0cee154c698e"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A8EC3B39-F680-40A3-A9A2-07C0A8361579}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T144436Z
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13993afc-0f53-46f2-845d-c4202ee21364"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T144436Z

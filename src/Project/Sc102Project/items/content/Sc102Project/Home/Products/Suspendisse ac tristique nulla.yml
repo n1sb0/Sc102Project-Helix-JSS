@@ -1,0 +1,44 @@
+﻿---
+ID: "08389a20-30ba-44e9-b8fe-d23617968f6a"
+Parent: "732ae2ef-ef71-49a1-a6af-4abc96cb3d90"
+Template: "97b3c262-59e2-495f-b666-4ff9d00cbfac"
+Path: /sitecore/content/Sc102Project/Home/Products/Suspendisse ac tristique nulla
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221012T151108Z
+    - ID: "50c1ca22-9c26-43c4-840f-044770fa47f7"
+      Hint: RelatedProducts
+      Value: 
+    - ID: "736e4ec7-a839-4e39-8b15-7add6b3eb969"
+      Hint: NavigationTitle
+      Value: Suspendisse ac tristique nulla
+    - ID: "8820506f-e348-43c1-bd64-8492f3735add"
+      Hint: ShortDescription
+      Value: Aliquam commodo eros eu commodo tincidunt. Sed luctus facilisis dolor, viverra semper dolor
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ab882fb-cae6-49b7-aa90-34e2c27afedd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d6004bdb-5606-42aa-aaf2-1555b484138a"
+      Hint: Title
+      Value: Suspendisse ac tristique nulla
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221012T151240Z
+    - ID: "ebb27b8e-d286-4cc2-b726-6322b2fc3471"
+      Hint: Title Price
+      Value: Price
+    - ID: "f7f96618-8f96-4268-bc49-3edc656ee4e4"
+      Hint: Features
+      Value: |
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">Aliquam commodo eros eu </span></p>
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">commodo tincidunt. Sed luctus </span></p>
+        <p><span style="background-color: #ffffff; text-align: justify; color: #000000;">facilisis dolor, viverra semper dolor</span></p>
