@@ -11,7 +11,7 @@ using Sitecore.LayoutService.Client.Extensions;
 using System.Collections.Generic;
 using System.Globalization;
 using Sitecore.AspNet.ExperienceEditor;
-using Sc102Project.Configuration;
+using Sc102Project.Project.Sc102Project.Rendering.Configuration;
 using Sitecore.AspNet.Tracking;
 using Sc102Project.Feature.BasicContent.Extensions;
 using Sc102Project.Feature.Navigation.Extensions;

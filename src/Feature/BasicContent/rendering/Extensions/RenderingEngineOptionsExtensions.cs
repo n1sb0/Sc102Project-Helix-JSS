@@ -10,7 +10,9 @@ namespace Sc102Project.Feature.BasicContent.Extensions
         {
             options
                 .AddModelBoundView<SectionHeader>("SectionHeader")
-                .AddModelBoundView<HeroBanner>("HeroBanner");
+                .AddModelBoundView<HeroBanner>("HeroBanner")
+                .AddPartialView("PromoContainer")
+                .AddPartialView("AccordionContainer");
             return options;
         }
     }

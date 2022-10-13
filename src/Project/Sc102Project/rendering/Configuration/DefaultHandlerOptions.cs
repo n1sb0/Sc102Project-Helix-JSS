@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Sc102Project.Configuration
+namespace Sc102Project.Project.Sc102Project.Rendering.Configuration
 {
     public class DefaultHandlerOptions
     {
