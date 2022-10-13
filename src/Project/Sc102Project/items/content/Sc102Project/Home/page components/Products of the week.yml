@@ -1,0 +1,26 @@
+﻿---
+ID: "e32d56c9-b2f5-4e3a-b102-fe05ac02e152"
+Parent: "bdd8117c-4641-41b0-8ddc-5e75f97dd745"
+Template: "f07dbfc5-0cd4-4f7e-910b-85399acc45bd"
+Path: /sitecore/content/Sc102Project/Home/page components/Products of the week
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "111ff2ab-266e-4d66-bfd7-00e58bf85625"
+      Hint: Text
+      Value: Products of the week
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20221013T100737Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02b5e902-ff90-4074-93f4-73a771e68314"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20221013T100737Z

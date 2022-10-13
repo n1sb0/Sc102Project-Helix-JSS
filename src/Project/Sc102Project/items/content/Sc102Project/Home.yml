@@ -25,8 +25,21 @@ Languages:
               s:id="{09FE7B4A-F57F-4897-BCFD-058BE9E64A96}"
               s:ph="main" />
             <r
-              uid="{5C4B2F99-448C-4AD6-AE37-F698938C4BBE}"
+              uid="{364C95A1-9125-41EB-AE55-0FFB82A561F5}"
               p:after="r[@uid='{C7DD01DA-DB93-4A29-9AB0-F0F49848981B}']"
+              s:id="{68928492-DA3E-42E2-8566-317A3F1C188C}"
+              s:ph="main" />
+            <r
+              uid="{68EE2B15-679A-4F07-B02D-F0C40BBD15AA}"
+              p:after="r[@uid='{364C95A1-9125-41EB-AE55-0FFB82A561F5}']"
+              s:ds="{E32D56C9-B2F5-4E3A-B102-FE05AC02E152}"
+              s:id="{D9A6FD83-120E-4BD3-9BF2-36FC79527D36}"
+              s:par=""
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5C4B2F99-448C-4AD6-AE37-F698938C4BBE}"
+              p:after="r[@uid='{68EE2B15-679A-4F07-B02D-F0C40BBD15AA}']"
               s:ds="{6980F5C8-FCA5-4FD7-9B05-4EB5CE84435C}"
               s:id="{D9A6FD83-120E-4BD3-9BF2-36FC79527D36}"
               s:par=""
@@ -48,7 +61,7 @@ Languages:
       Value: Home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f85f6036-1b14-4ce1-9fe7-29da8d290e6b"
+      Value: "64608f50-6860-4d36-9007-2b468d5e7e4b"
     - ID: "a055fd0a-f488-403d-9e97-de217e666f53"
       Hint: HeaderLogo
       Value: |
@@ -59,4 +72,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221012T160119Z
+      Value: 20221013T102027Z

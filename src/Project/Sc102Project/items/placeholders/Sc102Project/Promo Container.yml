@@ -1,19 +1,15 @@
 ﻿---
-ID: "1779dd2d-3987-4611-8f59-a3b3d226396b"
+ID: "b87cd6ba-f4a6-4f57-b1d8-6bba335a7f55"
 Parent: "1cd07453-159b-499c-a93f-e997b32da86c"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: /sitecore/layout/Placeholder Settings/Project/Sc102Project/main
+Path: /sitecore/layout/Placeholder Settings/Project/Sc102Project/Promo Container
 SharedFields:
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
-  Value: main
+  Value: promos
 - ID: "e391b526-d0c5-439d-803e-17512eae6222"
   Hint: Allowed Controls
-  Value: |
-    {09FE7B4A-F57F-4897-BCFD-058BE9E64A96}
-    {D9A6FD83-120E-4BD3-9BF2-36FC79527D36}
-    {68928492-DA3E-42E2-8566-317A3F1C188C}
-    {091645C4-ABBB-489B-92DB-9A423A5ADE74}
+  Value: "{A6051DEE-024F-4F84-9CFF-F0EDB4420E06}"
 Languages:
 - Language: en
   Versions:
@@ -21,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221006T131902Z
+      Value: 20221013T080433Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8259e0bd-d35d-402f-b416-d81170adf216"
+      Value: "56735a4c-bf65-44f7-be39-13dcbb0f32ba"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221013T082145Z
+      Value: 20221013T102104Z

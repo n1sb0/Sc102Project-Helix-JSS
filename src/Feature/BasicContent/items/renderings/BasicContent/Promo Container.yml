@@ -1,17 +1,21 @@
 ﻿---
-ID: "c9b38995-5696-4eb0-bc38-7c592b62d6be"
-Parent: "e7d6f7a1-4989-47a1-8499-85b0e5089318"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/BasicContent/Hero Banner
+ID: "68928492-da3e-42e2-8566-317a3f1c188c"
+Parent: "60f75bc2-a3ca-4712-ac70-ff9a34bff2bd"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/BasicContent/Promo Container
 SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: PromoContainer
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Office/32x32/window_test_card.png
-- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
-  Hint: __Base template
-  Value: |
-    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
-    {09D5CE69-4CF6-44BA-B47D-9080F4D16BD4}
+  Value: Office/32x32/windows.png
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: 
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -19,7 +23,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20221010T143307Z
+      Value: 20221013T080236Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -30,11 +34,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2317b455-33fa-4a03-94a4-9bf25baac8a3"
+      Value: "312bed45-d4aa-4aeb-85fd-ba4df488fd21"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20221013T080902Z
+      Value: 20221013T095830Z
